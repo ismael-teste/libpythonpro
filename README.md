@@ -5,7 +5,9 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso do [Python Pro](https://python.pro.br)
 
-Suportada a versão 3 de Python
+[![Build Status](https://travis-ci.com/ismael-miranda/libpythonpro.svg?branch=main)](https://travis-ci.com/ismael-miranda/libpythonpro)****
+
+Suportada a versão3 de Python
 
 Para instalar:
 ```console
@@ -19,8 +21,8 @@ Para conferir a qualidae do código:
 flake8
 ```
 
-
 Tópicos a serem abordados:
 1. Git
 2. Virtualenv
 3. Pip
+
