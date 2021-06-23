@@ -26,6 +26,7 @@ Para conferir a qualidae do código:
 flake8
 
 ```
+
 Tópicos a serem abordados:
 1. Git
 2. Virtualenv
