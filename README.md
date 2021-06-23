@@ -22,7 +22,6 @@ Para conferir a qualidae do código:
 ```console
 flake8
 ```
-
 Tópicos a serem abordados:
 1. Git
 2. Virtualenv
