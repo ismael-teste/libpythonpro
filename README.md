@@ -5,7 +5,7 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso do [Python Pro](https://python.pro.br)
 
-[![Build Status](https://travis-ci.com/ismael-miranda/libpythonpro.svg?branch=main)](https://travis-ci.com/ismael-miranda/libpythonpro)****
+[![Build Status](https://travis-ci.com/ismael-miranda/libpythonpro.svg?branch=main)](https://travis-ci.com/ismael-miranda/libpythonpro)*****
 [![Updates](https://pyup.io/repos/github/ismael-miranda/libpythonpro/shield.svg)](https://pyup.io/repos/github/ismael-miranda/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/ismael-miranda/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/ismael-miranda/libpythonpro/)
 
